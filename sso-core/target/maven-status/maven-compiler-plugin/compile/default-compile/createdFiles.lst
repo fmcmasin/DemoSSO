@@ -1,0 +1,3 @@
+com\hjz\sso\utils\RestTemplateUtil.class
+com\hjz\sso\filter\SSOFilter.class
+com\hjz\sso\filter\AccessControlFilter.class
